@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 75d6b5648eea08844a93b95f192a3fea
+  - enabled: 1
+    path: Assets/Scenes/Carie_Video.unity
+    guid: b679d7f68e19323499b0ea357a7b36c4
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ed30e1bd00c0cea4f9362e5504e2c4cb, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: eee78b01ff801ff4d99701fbe2e28ea2, type: 2}
+  m_UseUCBPForAssetBundles: 0
